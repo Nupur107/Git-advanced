@@ -1,0 +1,1 @@
+-e "This is a shared line.\nLine 1: Original text.\nline 2: Modified text in feature-2."
